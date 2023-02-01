@@ -1,0 +1,63 @@
+.about-paragraph {
+    color: white;   
+    border: 100px, solid, black !important;}
+
+.col-8 {
+    padding-left: 30px !important;
+}
+
+
+body, html {
+    margin: 0 !important;
+    padding: 0;
+}
+
+body {
+    background-color: skyblue !important;
+}
+
+.heading {
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    color: white;
+    font-size: 55px;    
+}
+
+.header {
+    background-color: pink;
+    padding: 24px;
+    top: zero;
+    border-bottom: 10px solid, black !important;
+}
+
+.about {
+    text-align: right;
+    padding-right: 100px;
+    color: darkblue;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.special-of-the-month {
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    text-align: center !important;
+}
+
+.special-font {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.menu {
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+
+tr {
+    font-size: larger;
+}
